@@ -8,7 +8,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 
 An analysis will inform them what this strategy might look like to ensure IC targets the right customer profiles with the appropriate products. 
 
-# DATA : orders, orders_products_prior, products, customers and departments
+DATA : orders, orders_products_prior, products, customers and departments
 
 Instacart is a real company that has made their data available online. However, the contents have been fabricated for the purpose of this analysis and also to include datasets containing all the customer information. Data ethics and PII have been applied, especially in regards to customer information.
 
