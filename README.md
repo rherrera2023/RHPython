@@ -20,6 +20,6 @@ Analysis has been conducted using Jupyter notebooks and Anaconda libraries manag
 
 ## 03 Scripts = notebooks - the Python coding
 
-## 04 Analysis - Visualizations - the .png's generated to communicate insights to stakeholders
+## 04 Analysis - Visualizations - the .png's generated to communicate insights to stakeholders
 
 ##05 Sent to client - the final Excel report containing data citation for Instacart and customer data sets
